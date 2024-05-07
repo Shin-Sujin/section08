@@ -13,7 +13,7 @@
 
 .List > input:focus {
   outline: none;
-  border-bottom: 1px solid rgb(37, 246, 255);
+  border-bottom: 1px solid rgb(37, 147, 255);
 }
 
 .List .todos_wrapper {
